@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Mi primera pagina web</title>
+   <meta charset="UTF-8">
+   <meta name="Juego de cartas" content="">
+  </head>
+ 
+ <body bgcolor="black" text="white" marginheight="75" marginwidht="75">
+ 
+ <!--Division-->
+   <div class="social">
+   <h1>Hola a todos</h1>
+   <p><font face="Liberation Serif" size="5">Mi deck favorito de yugioh</p>
+   <br>
+      <center>
+      <img src="img/Odd-eyes pendulum dragon.jpg" height="360px" width="250px">
+      <img src="img/Odd-eyes vortex dragon.jpg" height="360px" widht="360px">
+      <img src="img/Odd-eyes absolute dragon.jpg" height="360px" width="250px">
+      <img src="img/Odd-eyes arc pendulum dragon.jpg" height="360px" widht="360px">
+      <img src="img/Performapal odd-eyes disolver.jpg" height="360px" width="250px">
+      <img src="img/Odd-eyes meteorburts dragon.jpg" height="360px" widht="360px">
+      <img src="img/Odd-eyes persona dragon.jpg" height="360px" width="250px">
+      <img src="img/Odd-eyes phantom dragon.jpg" height="360px" width="250px">
+      <img src="img/Odd-eyes revolution dragon.jpg" height="360px" widht="360px">
+      </center>
+  <center><table border="1">
+    <tr>
+    <td>Bienvenido a mi sitio 
+    <br>
+    de frutas web</td>
+    <td>Este sitio fue creado en html como una pagina de prueba</td>
+    </tr>
+    </table>
+    </center>
+    </div>
+    
+    <!--Span-->
+     <p>Soon we'll be <span class="tooltip"> writing HTML </span> with the best of them</p>
+   </body>
+   
+   <br>
+    <a href="https://www.youtube.com/channel/UCL9lexz0HhzCc_vNzJJqWew">
+   Visita mi canal</a> 
+   
+</html>
